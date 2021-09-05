@@ -1,0 +1,5 @@
+server:
+  servlet:
+    context-path: /cloud
+  port: 8189
+
